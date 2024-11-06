@@ -26,7 +26,7 @@ Update State and Action and repeat the step 3 untill the episodes ends.
 
 
 ### Name:PRAVEEN S
-### Register Number:21222224007
+### Register Number:212222240077
 
 ```PYTHON
 def sarsa(env,
